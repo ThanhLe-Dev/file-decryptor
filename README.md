@@ -1,4 +1,4 @@
-# file-decrytor
+# file-decryptor
 
 簡単な復号化スクリプトです。
 
